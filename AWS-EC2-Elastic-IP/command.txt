@@ -1,0 +1,11 @@
+# Project 4: Elastic IP
+
+# Allocate Elastic IP
+(AWS Console Step)
+
+# Associate Elastic IP with EC2
+(AWS Console Step)
+
+# Test website/game in browser
+http://13.200.57.178
+
