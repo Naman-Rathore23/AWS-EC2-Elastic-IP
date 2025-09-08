@@ -16,15 +16,15 @@ Allocate an **Elastic IP** in AWS, associate it with an EC2 instance, and access
 ## Screenshots
 - Elastic IP allocation in AWS console
 
-![](.AWS-EC2-Elastic-IP/Screenshots/elastic-ip-allocated.png)
+![](./AWS-EC2-Elastic-IP/Screenshots/elastic-ip-allocated.png)
   
 - Elastic IP association with EC2
 
-![](.AWS-EC2-Elastic-IP/Screenshots/elastic-ip-associated.png)
+![](./AWS-EC2-Elastic-IP/Screenshots/elastic-ip-associated.png)
 
 - Website (Hello.html) accessible using Elastic IP
 
-![](.AWS-EC2-Elastic-IP/Screenshots/website-access-elastic-ip.png)  
+![](./AWS-EC2-Elastic-IP/Screenshots/website-access-elastic-ip.png)  
 
 ---
 
